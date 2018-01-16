@@ -25,6 +25,7 @@ public class exercise4{
             
           }else {
             System.out.print(" This is else statement");
+            System.out.print(" This is else statement");
         }
     }
 }
